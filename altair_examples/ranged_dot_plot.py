@@ -47,3 +47,4 @@ chart += (
     )
     .interactive()
 )
+chart
